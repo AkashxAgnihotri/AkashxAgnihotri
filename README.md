@@ -1,4 +1,4 @@
-![logo]![image](https://github.com/user-attachments/assets/0647cc1d-2676-4ce2-abb9-80658aafda46)
+![logo](https://github.com/user-attachments/assets/0647cc1d-2676-4ce2-abb9-80658aafda46)
 
 <h1 align="center">Hi 👋, I'm Akash Agnihotri</h1>
 <h3 align="center">A passionate Software engineer from India, Currently working at Cognizant</h3>
